@@ -20,3 +20,8 @@ The periodic table continues to evolve with the progress of science. In nature, 
 ||
 ||||*|[Lan­thanum 57 La ​138.91](Lan­thanum.md)|[Cerium 58 Ce ​140.12](Cerium.md)|[Praseo­dymium 59 Pr ​140.91](Praseo­dymium.md)|[Neo­dymium 60 Nd ​144.24](Neo­dymium.md)|[Prome­thium 61 Pm ​145](Prome­thium.md)|[Sama­rium 62 Sm ​150.36](Sama­rium.md)|[Europ­ium 63 Eu ​151.96](Europ­ium.md)|[Gadolin­ium 64 Gd ​157.25](Gadolin­ium.md)|[Ter­bium 65 Tb ​158.93](Ter­bium.md)|[Dyspro­sium 66 Dy ​162.50](Dyspro­sium.md)|[Hol­mium 67 Ho ​164.93](Hol­mium.md)|[Erbium 68 Er ​167.26](Erbium.md)|[Thulium 69 Tm ​168.93](Thulium.md)|[Ytter­bium 70 Yb ​173.05](Ytter­bium.md)|
 ||||**|[Actin­ium 89 Ac ​227](Actin­ium.md)|[Thor­ium 90 Th ​232.04](Thor­ium.md)|[Protac­tinium 91 Pa ​231.04](Protac­tinium.md)|[Ura­nium 92 U ​238.03](Ura­nium.md)|[Neptu­nium 93 Np ​237](Neptu­nium.md)|[Pluto­nium 94 Pu ​244](Pluto­nium.md)|[Ameri­cium 95 Am ​243](Ameri­cium.md)|[Curium 96 Cm ​247](Curium.md)|[Berkel­ium 97 Bk ​247](Berkel­ium.md)|[Califor­nium 98 Cf 251](Califor­nium.md)|[Einstei­nium 99 Es ​252](Einstei­nium.md)|Fer­mium 100 Fm 257](Fer­mium.md)|[Mende­levium 101 Md ​258](Mende­levium.md)|[Nobel­ium 102 No ​259](Nobel­ium.md)|
+
+Download
+[Excel xlsx](https://computeexpert.com/english-blog/excel-tips-and-trick/program/periodic-table-of-elements/periodic-table-of-elements.xlsx)
+[PDF (A3)](https://computeexpert.com/english-blog/excel-tips-and-trick/program/periodic-table-of-elements/a3-periodic-table-of-elements.pdf)
+[PDF (A4)](https://computeexpert.com/english-blog/excel-tips-and-trick/program/periodic-table-of-elements/a4-periodic-table-of-elements.pdf)
